@@ -42,9 +42,8 @@ let package = Package(
                 "GTMAppAuth",
                 "AppAuthCore"
             ],
-            path: "Source",
+            path: "Sources",
             sources: [
-                ".",
                 "iOS",
                 "macOS"
             ],
